@@ -32,8 +32,8 @@ Generation)**, construído com:
 ### 1. Clonar o repositório
 
 ``` bash
-git clone https://github.com/teu-username/chat-rag-pdfs.git
-cd chat-rag-pdfs
+git clone https://github.com/joaoacabouz/RagPDF.git
+cd RagPDF
 ```
 
 ### 2. Criar ambiente virtual
@@ -41,7 +41,7 @@ cd chat-rag-pdfs
 No Windows (PowerShell):
 
 ``` powershell
-python -m venv .venv
+python -3.11 -m venv .venv
 .venv\Scripts\activate
 ```
 
